@@ -27,7 +27,7 @@ LV_IMG_DECLARE(catmap);
 
 
 const lv_img_dsc_t *img[] = {
-    &cat_map,
+    &catmap,
 };
 
 static sys_slist_t widgets = SYS_SLIST_STATIC_INIT(&widgets);
